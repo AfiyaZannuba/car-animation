@@ -11,12 +11,12 @@ body{
     height: 100vh;
     width: 100%;
     position: absolute;
-    background-image: url(./Resources/background.jpg);
+    background-image: url(./background.jpg);
 background-repeat: no-repeat;
 }
 
 .trees{
-    background-image: url(./Resources/trees.png);
+    background-image: url(./trees.png);
     background-size: cover;
     position: absolute;
     
@@ -28,7 +28,7 @@ background-repeat: no-repeat;
 .track{
     height:60vh;
     width: 800vw;
-    background-image: url(./Resources/track.png);
+    background-image: url(./track.png);
     background-size: cover;
     position: absolute;
     top: 70vh;
@@ -40,7 +40,7 @@ background-repeat: no-repeat;
 .car{
     height: 100px;
     width: 280px;
-    background-image: url(./Resources/car_body.png);
+    background-image: url(./car_body.png);
     background-size: cover;
     background-repeat: no-repeat;
     position: absolute;
